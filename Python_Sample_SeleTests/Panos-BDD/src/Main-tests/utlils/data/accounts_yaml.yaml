@@ -1,0 +1,8 @@
+#Data file for users
+
+  USERS:
+    test-user:
+      username: example.user
+      password: 'test1234'
+      otp_password: 123456
+      comment: User for example

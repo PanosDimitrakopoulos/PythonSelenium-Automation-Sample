@@ -1,0 +1,16 @@
+##############################################
+# File contains Dummy Translations #
+#############################################
+
+# Translations 1
+TRANSLATIONS_1:
+  "This Is A Translation String with Random Numbers"
+
+TRANSLATIONS_2:
+  'This is another Translation Fire Dummy File'
+
+Translations_3:
+  "Is This A Stroke Do I know how to Write Code"
+
+Translations_4:
+  "Congratulations"
