@@ -11,8 +11,8 @@ Feature: Login - Homepage
       Then Validate Homepage and Dashboard
        And Logout as user
 
-        @login @TESTTAG001 @regression
-    Scenario: Login - Validate Homepage and Dashboard [TESTTAG001]
+        @login @TESTTAG002 @regression
+    Scenario: Login - Validate Homepage and Verify translations Dashboard [TESTTAG002]
        When Navigate to Login using URL
        And Login as user using staging environment (user_tag_creds,@example_user@)
       Then Verify Translations
